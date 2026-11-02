@@ -1,0 +1,290 @@
+{
+  "oni": [
+    {
+      "lead": 1,
+      "model": 0.131,
+      "keep latest": 0.1898,
+      "normal for the month": 0.798
+    },
+    {
+      "lead": 2,
+      "model": 0.2476,
+      "keep latest": 0.3581,
+      "normal for the month": 0.7976
+    },
+    {
+      "lead": 3,
+      "model": 0.3462,
+      "keep latest": 0.5069,
+      "normal for the month": 0.7974
+    },
+    {
+      "lead": 4,
+      "model": 0.4234,
+      "keep latest": 0.6343,
+      "normal for the month": 0.7975
+    },
+    {
+      "lead": 5,
+      "model": 0.4933,
+      "keep latest": 0.7465,
+      "normal for the month": 0.7977
+    },
+    {
+      "lead": 6,
+      "model": 0.5624,
+      "keep latest": 0.8451,
+      "normal for the month": 0.7979
+    },
+    {
+      "lead": 7,
+      "model": 0.6288,
+      "keep latest": 0.9302,
+      "normal for the month": 0.7981
+    },
+    {
+      "lead": 8,
+      "model": 0.6874,
+      "keep latest": 1.0016,
+      "normal for the month": 0.7982
+    },
+    {
+      "lead": 9,
+      "model": 0.7315,
+      "keep latest": 1.0592,
+      "normal for the month": 0.7982
+    },
+    {
+      "lead": 10,
+      "model": 0.7599,
+      "keep latest": 1.1039,
+      "normal for the month": 0.7983
+    },
+    {
+      "lead": 11,
+      "model": 0.7754,
+      "keep latest": 1.137,
+      "normal for the month": 0.7987
+    },
+    {
+      "lead": 12,
+      "model": 0.7831,
+      "keep latest": 1.1609,
+      "normal for the month": 0.7991
+    },
+    {
+      "lead": 13,
+      "model": 0.7865,
+      "keep latest": 1.1782,
+      "normal for the month": 0.7996
+    },
+    {
+      "lead": 14,
+      "model": 0.7872,
+      "keep latest": 1.1912,
+      "normal for the month": 0.8
+    },
+    {
+      "lead": 15,
+      "model": 0.7862,
+      "keep latest": 1.2012,
+      "normal for the month": 0.8003
+    },
+    {
+      "lead": 16,
+      "model": 0.7843,
+      "keep latest": 1.209,
+      "normal for the month": 0.8004
+    }
+  ],
+  "dmi": [
+    {
+      "lead": 1,
+      "model": 0.207,
+      "keep latest": 0.2238,
+      "normal for the month": 0.3596
+    },
+    {
+      "lead": 2,
+      "model": 0.2706,
+      "keep latest": 0.311,
+      "normal for the month": 0.3597
+    },
+    {
+      "lead": 3,
+      "model": 0.3062,
+      "keep latest": 0.3701,
+      "normal for the month": 0.3597
+    },
+    {
+      "lead": 4,
+      "model": 0.3253,
+      "keep latest": 0.4076,
+      "normal for the month": 0.3599
+    },
+    {
+      "lead": 5,
+      "model": 0.339,
+      "keep latest": 0.4334,
+      "normal for the month": 0.3601
+    },
+    {
+      "lead": 6,
+      "model": 0.3473,
+      "keep latest": 0.4482,
+      "normal for the month": 0.36
+    },
+    {
+      "lead": 7,
+      "model": 0.3511,
+      "keep latest": 0.4548,
+      "normal for the month": 0.36
+    },
+    {
+      "lead": 8,
+      "model": 0.3561,
+      "keep latest": 0.4647,
+      "normal for the month": 0.3601
+    },
+    {
+      "lead": 9,
+      "model": 0.3591,
+      "keep latest": 0.4716,
+      "normal for the month": 0.3603
+    },
+    {
+      "lead": 10,
+      "model": 0.3608,
+      "keep latest": 0.4759,
+      "normal for the month": 0.3604
+    },
+    {
+      "lead": 11,
+      "model": 0.3606,
+      "keep latest": 0.4748,
+      "normal for the month": 0.3605
+    },
+    {
+      "lead": 12,
+      "model": 0.3597,
+      "keep latest": 0.4774,
+      "normal for the month": 0.3606
+    },
+    {
+      "lead": 13,
+      "model": 0.3589,
+      "keep latest": 0.4849,
+      "normal for the month": 0.3605
+    },
+    {
+      "lead": 14,
+      "model": 0.3595,
+      "keep latest": 0.4922,
+      "normal for the month": 0.3607
+    },
+    {
+      "lead": 15,
+      "model": 0.3607,
+      "keep latest": 0.4911,
+      "normal for the month": 0.3609
+    },
+    {
+      "lead": 16,
+      "model": 0.3613,
+      "keep latest": 0.4883,
+      "normal for the month": 0.3611
+    },
+    {
+      "lead": 17,
+      "model": 0.3613,
+      "keep latest": 0.4868,
+      "normal for the month": 0.3611
+    },
+    {
+      "lead": 18,
+      "model": 0.3623,
+      "keep latest": 0.4907,
+      "normal for the month": 0.3613
+    },
+    {
+      "lead": 19,
+      "model": 0.3628,
+      "keep latest": 0.4929,
+      "normal for the month": 0.3615
+    }
+  ],
+  "rain": [
+    {
+      "month": 1,
+      "average (mm)": 14.818,
+      "typical error (mm)": 33.619,
+      "error as % of average": 226.882
+    },
+    {
+      "month": 2,
+      "average (mm)": 9.471,
+      "typical error (mm)": 22.076,
+      "error as % of average": 233.076
+    },
+    {
+      "month": 3,
+      "average (mm)": 20.353,
+      "typical error (mm)": 35.031,
+      "error as % of average": 172.116
+    },
+    {
+      "month": 4,
+      "average (mm)": 50.669,
+      "typical error (mm)": 42.368,
+      "error as % of average": 83.616
+    },
+    {
+      "month": 5,
+      "average (mm)": 96.727,
+      "typical error (mm)": 83.653,
+      "error as % of average": 86.483
+    },
+    {
+      "month": 6,
+      "average (mm)": 175.8,
+      "typical error (mm)": 106.362,
+      "error as % of average": 60.501
+    },
+    {
+      "month": 7,
+      "average (mm)": 212.421,
+      "typical error (mm)": 131.042,
+      "error as % of average": 61.69
+    },
+    {
+      "month": 8,
+      "average (mm)": 189.857,
+      "typical error (mm)": 112.742,
+      "error as % of average": 59.382
+    },
+    {
+      "month": 9,
+      "average (mm)": 151.386,
+      "typical error (mm)": 88.848,
+      "error as % of average": 58.69
+    },
+    {
+      "month": 10,
+      "average (mm)": 180.524,
+      "typical error (mm)": 96.443,
+      "error as % of average": 53.424
+    },
+    {
+      "month": 11,
+      "average (mm)": 146.259,
+      "typical error (mm)": 117.716,
+      "error as % of average": 80.485
+    },
+    {
+      "month": 12,
+      "average (mm)": 60.74,
+      "typical error (mm)": 74.516,
+      "error as % of average": 122.68
+    }
+  ]
+}

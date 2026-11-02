@@ -1,0 +1,45 @@
+{% load static %}<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>ElGuard: climate data for Kerala, Karnataka and Tamil Nadu</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="{% static 'dashboard/app.css' %}">
+</head>
+<body>
+<header class="hero">
+  <div class="hero-inner">
+    <p class="eyebrow">Climate data explorer</p>
+    <h1>ElGuard</h1>
+    <p class="tag">El Niño temperature outlook for South India</p>
+    <p class="sub">Real temperature, rainfall and climate index values for every district of Kerala, Karnataka and Tamil Nadu, with a forecast for the months ahead</p>
+  </div>
+</header>
+<main>
+  <section class="picker" aria-label="Choose a district and a year">
+    <label>District <select id="district"></select></label>
+    <label>Year <select id="year"></select></label>
+    <p class="tip">Tip: click any district on its state map. Use the + and - buttons on a map to zoom in and see every district name.</p>
+  </section>
+  <section class="maps" aria-label="Maps of the three states">
+    <div class="panel mapcard"><h2>Kerala <span id="n-kerala"></span></h2><div class="statemap" id="map-kerala" role="application" aria-label="Map of the districts of Kerala"></div></div>
+    <div class="panel mapcard"><h2>Karnataka <span id="n-karnataka"></span></h2><div class="statemap" id="map-karnataka" role="application" aria-label="Map of the districts of Karnataka"></div></div>
+    <div class="panel mapcard"><h2>Tamil Nadu <span id="n-tamilnadu"></span></h2><div class="statemap" id="map-tamilnadu" role="application" aria-label="Map of the districts of Tamil Nadu"></div></div>
+  </section>
+  <section class="panel" id="detail"></section>
+  <section class="panel">
+    <h2>El Niño index, last 3 years</h2>
+    <div id="oni-chart"></div>
+    <p class="small">The index is +0.5 or more in an El Niño and -0.5 or less in a La Niña. Source: NOAA.</p>
+  </section>
+</main>
+<footer>
+  <p>Temperature and rainfall: IMD gridded data averaged over each district, and Open-Meteo for the most recent months. Rainfall is the total for the month, temperatures are monthly averages of the daily highest and lowest temperature.
+  El Niño index (ONI, 3-month average): NOAA CPC. Indian Ocean Dipole (DMI): NOAA PSL. Live temperature: Open-Meteo. District boundaries: Esri India 2024.</p>
+  <p>ElGuard is a student project, not an official forecast.</p>
+</footer>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="{% static 'dashboard/app.js' %}"></script>
+</body>
+</html>

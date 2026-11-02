@@ -1,0 +1,54 @@
+{
+  "best": "Ridge, 7 inputs",
+  "results": {
+    "District average (no trend)": {
+      "MAE": 0.4828,
+      "RMSE": 0.6029,
+      "RMSE in El Nino winters": 0.6962,
+      "RMSE in other winters": 0.5462,
+      "skill vs trend": 0.0348
+    },
+    "Trend only (no El Nino)": {
+      "MAE": 0.4927,
+      "RMSE": 0.6137,
+      "RMSE in El Nino winters": 0.706,
+      "RMSE in other winters": 0.5578,
+      "skill vs trend": 0.0
+    },
+    "Same as last year": {
+      "MAE": 0.6758,
+      "RMSE": 0.8281,
+      "RMSE in El Nino winters": 0.8938,
+      "RMSE in other winters": 0.7905,
+      "skill vs trend": -0.8206
+    },
+    "Ridge, 7 inputs": {
+      "MAE": 0.4019,
+      "RMSE": 0.5128,
+      "RMSE in El Nino winters": 0.5192,
+      "RMSE in other winters": 0.5092,
+      "skill vs trend": 0.302
+    },
+    "Ridge, 2 inputs (winter El Nino + warm Jan-Feb)": {
+      "MAE": 0.4069,
+      "RMSE": 0.5142,
+      "RMSE in El Nino winters": 0.5231,
+      "RMSE in other winters": 0.5093,
+      "skill vs trend": 0.2981
+    }
+  },
+  "error_range": {
+    "Kerala": [
+      -0.71678518624129,
+      0.5431149222850109
+    ],
+    "Tamil Nadu": [
+      -0.7215112326492743,
+      0.6916006687789646
+    ],
+    "Karnataka": [
+      -0.7024326300125026,
+      0.5963325435971427
+    ]
+  }
+}

@@ -1,0 +1,295 @@
+{
+  "year": 2027,
+  "table": [
+    {
+      "month": "Jan",
+      "temperature": "high",
+      "error trend only": 0.5605,
+      "error with El Nino": 0.56,
+      "skill": 0.0016,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Feb",
+      "temperature": "high",
+      "error trend only": 0.6028,
+      "error with El Nino": 0.5628,
+      "skill": 0.1284,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Mar",
+      "temperature": "high",
+      "error trend only": 0.6953,
+      "error with El Nino": 0.6304,
+      "skill": 0.1781,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Apr",
+      "temperature": "high",
+      "error trend only": 0.8426,
+      "error with El Nino": 0.798,
+      "skill": 0.1031,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "May",
+      "temperature": "high",
+      "error trend only": 1.0535,
+      "error with El Nino": 1.0629,
+      "skill": -0.018,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Jun",
+      "temperature": "high",
+      "error trend only": 0.8924,
+      "error with El Nino": 0.9138,
+      "skill": -0.0486,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Jul",
+      "temperature": "high",
+      "error trend only": 0.7205,
+      "error with El Nino": 0.7372,
+      "skill": -0.0469,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Aug",
+      "temperature": "high",
+      "error trend only": 0.6445,
+      "error with El Nino": 0.6633,
+      "skill": -0.0591,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Sep",
+      "temperature": "high",
+      "error trend only": 0.6847,
+      "error with El Nino": 0.7036,
+      "skill": -0.0559,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Oct",
+      "temperature": "high",
+      "error trend only": 0.6978,
+      "error with El Nino": 0.7207,
+      "skill": -0.0668,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Nov",
+      "temperature": "high",
+      "error trend only": 0.6642,
+      "error with El Nino": 0.6826,
+      "skill": -0.0561,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Dec",
+      "temperature": "high",
+      "error trend only": 0.6325,
+      "error with El Nino": 0.6485,
+      "skill": -0.0513,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Jan",
+      "temperature": "low",
+      "error trend only": 0.7947,
+      "error with El Nino": 0.7802,
+      "skill": 0.0362,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Feb",
+      "temperature": "low",
+      "error trend only": 0.8306,
+      "error with El Nino": 0.7507,
+      "skill": 0.1833,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Mar",
+      "temperature": "low",
+      "error trend only": 0.7068,
+      "error with El Nino": 0.6466,
+      "skill": 0.1632,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Apr",
+      "temperature": "low",
+      "error trend only": 0.5983,
+      "error with El Nino": 0.5286,
+      "skill": 0.2195,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "May",
+      "temperature": "low",
+      "error trend only": 0.5727,
+      "error with El Nino": 0.526,
+      "skill": 0.1565,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Jun",
+      "temperature": "low",
+      "error trend only": 0.4663,
+      "error with El Nino": 0.4543,
+      "skill": 0.0508,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Jul",
+      "temperature": "low",
+      "error trend only": 0.3668,
+      "error with El Nino": 0.3626,
+      "skill": 0.0229,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Aug",
+      "temperature": "low",
+      "error trend only": 0.3488,
+      "error with El Nino": 0.3381,
+      "skill": 0.0603,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Sep",
+      "temperature": "low",
+      "error trend only": 0.339,
+      "error with El Nino": 0.3312,
+      "skill": 0.0457,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Oct",
+      "temperature": "low",
+      "error trend only": 0.4172,
+      "error with El Nino": 0.4231,
+      "skill": -0.0285,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Nov",
+      "temperature": "low",
+      "error trend only": 0.6723,
+      "error with El Nino": 0.6884,
+      "skill": -0.0485,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Dec",
+      "temperature": "low",
+      "error trend only": 0.8865,
+      "error with El Nino": 0.868,
+      "skill": 0.0413,
+      "El Nino used": "no"
+    }
+  ],
+  "range": {
+    "tmax_c|Jan": [
+      -0.659218684890991,
+      0.6882066386881772
+    ],
+    "tmax_c|Feb": [
+      -0.7454777134260446,
+      0.661192475084185
+    ],
+    "tmax_c|Mar": [
+      -0.6563631702227539,
+      0.7948277653300226
+    ],
+    "tmax_c|Apr": [
+      -1.0585482718609782,
+      0.9234390716110042
+    ],
+    "tmax_c|May": [
+      -1.629057111879952,
+      1.1519387151335323
+    ],
+    "tmax_c|Jun": [
+      -1.0978704769574632,
+      1.2100461670386622
+    ],
+    "tmax_c|Jul": [
+      -0.8437754417078267,
+      0.9694258093056121
+    ],
+    "tmax_c|Aug": [
+      -0.7454736069425039,
+      0.8520957361531848
+    ],
+    "tmax_c|Sep": [
+      -0.8800249281844635,
+      0.9179201431759418
+    ],
+    "tmax_c|Oct": [
+      -0.8283355156499717,
+      0.9526294885721072
+    ],
+    "tmax_c|Nov": [
+      -0.8977124744806524,
+      0.7554270844237672
+    ],
+    "tmax_c|Dec": [
+      -0.8456393270593487,
+      0.8179149711587558
+    ],
+    "tmin_c|Jan": [
+      -1.051689585527919,
+      0.9967829720849792
+    ],
+    "tmin_c|Feb": [
+      -0.9042662920311137,
+      0.8924134504071439
+    ],
+    "tmin_c|Mar": [
+      -0.7204346000902007,
+      0.7071829733681234
+    ],
+    "tmin_c|Apr": [
+      -0.629653984221997,
+      0.6855329558236463
+    ],
+    "tmin_c|May": [
+      -0.6329411046226738,
+      0.6872518164781817
+    ],
+    "tmin_c|Jun": [
+      -0.5751504974446533,
+      0.5830374751719347
+    ],
+    "tmin_c|Jul": [
+      -0.4611523604406287,
+      0.4482921972772468
+    ],
+    "tmin_c|Aug": [
+      -0.4170818203291552,
+      0.4767573044248027
+    ],
+    "tmin_c|Sep": [
+      -0.4166758842746787,
+      0.404363896346041
+    ],
+    "tmin_c|Oct": [
+      -0.5467260100409668,
+      0.48722448742932656
+    ],
+    "tmin_c|Nov": [
+      -0.7895128150832981,
+      0.8210040965524961
+    ],
+    "tmin_c|Dec": [
+      -1.0397396360044908,
+      1.168943013619895
+    ]
+  }
+}

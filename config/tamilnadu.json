@@ -1,0 +1,8 @@
+{
+  "state": "Tamil Nadu",
+  "districts": 38,
+  "season_months": [10, 11, 12],
+  "geojson": "data/geojson/tamilnadu.geojson",
+  "language": "ta",
+  "key_crops": ["rice", "sugarcane", "groundnut", "millets"]
+}

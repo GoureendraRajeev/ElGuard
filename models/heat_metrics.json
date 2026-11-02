@@ -1,0 +1,45 @@
+{
+  "best": "Logistic Regression",
+  "results": {
+    "Baseline (always Low)": {
+      "accuracy": 0.5853658536585366,
+      "balanced_accuracy": 0.3333333333333333,
+      "macro_f1": 0.24615384615384617,
+      "high_precision": 0.0,
+      "high_recall": 0.0,
+      "auc_high": 0.5
+    },
+    "Rule: El Nino winter -> High": {
+      "accuracy": 0.5956508962679988,
+      "balanced_accuracy": 0.4730589022757698,
+      "macro_f1": 0.4112682614516035,
+      "high_precision": 0.41308089500860584,
+      "high_recall": 0.642570281124498,
+      "auc_high": 0.7952016398929049
+    },
+    "Rule: warm Jan-Feb -> High": {
+      "accuracy": 0.6423743755509844,
+      "balanced_accuracy": 0.47874832663989286,
+      "macro_f1": 0.4361732644865175,
+      "high_precision": 0.5421686746987951,
+      "high_recall": 0.5421686746987951,
+      "auc_high": 0.8071029096304898
+    },
+    "Random Forest": {
+      "accuracy": 0.4945636203349985,
+      "balanced_accuracy": 0.428380187416332,
+      "macro_f1": 0.42215573093427156,
+      "high_precision": 0.486013986013986,
+      "high_recall": 0.5582329317269076,
+      "auc_high": 0.7855886396993597
+    },
+    "Logistic Regression": {
+      "accuracy": 0.5633264766382604,
+      "balanced_accuracy": 0.5277777777777778,
+      "macro_f1": 0.4978596362073384,
+      "high_precision": 0.5239819004524887,
+      "high_recall": 0.7751004016064257,
+      "auc_high": 0.8429758189384042
+    }
+  }
+}

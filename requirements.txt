@@ -1,0 +1,9 @@
+pandas
+numpy
+scipy
+xarray
+matplotlib
+scikit-learn
+joblib
+imdlib
+django

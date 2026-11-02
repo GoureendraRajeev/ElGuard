@@ -1,0 +1,103 @@
+{
+  "year": 2026,
+  "table": [
+    {
+      "month": "Sep",
+      "temperature": "high",
+      "error trend only": 0.6847,
+      "error with El Nino": 0.6076,
+      "skill": 0.2127,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Oct",
+      "temperature": "high",
+      "error trend only": 0.6978,
+      "error with El Nino": 0.6939,
+      "skill": 0.0109,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Nov",
+      "temperature": "high",
+      "error trend only": 0.6642,
+      "error with El Nino": 0.685,
+      "skill": -0.0635,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Dec",
+      "temperature": "high",
+      "error trend only": 0.6325,
+      "error with El Nino": 0.5932,
+      "skill": 0.1203,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Sep",
+      "temperature": "low",
+      "error trend only": 0.339,
+      "error with El Nino": 0.3287,
+      "skill": 0.0601,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Oct",
+      "temperature": "low",
+      "error trend only": 0.4172,
+      "error with El Nino": 0.4049,
+      "skill": 0.058,
+      "El Nino used": "no"
+    },
+    {
+      "month": "Nov",
+      "temperature": "low",
+      "error trend only": 0.6723,
+      "error with El Nino": 0.6102,
+      "skill": 0.176,
+      "El Nino used": "yes"
+    },
+    {
+      "month": "Dec",
+      "temperature": "low",
+      "error trend only": 0.8865,
+      "error with El Nino": 0.8202,
+      "skill": 0.144,
+      "El Nino used": "yes"
+    }
+  ],
+  "range": {
+    "tmax_c|Sep": [
+      -0.7755123661500605,
+      0.7707824079117105
+    ],
+    "tmax_c|Oct": [
+      -0.8283355156499717,
+      0.9526294885721072
+    ],
+    "tmax_c|Nov": [
+      -0.8977124744806524,
+      0.7554270844237672
+    ],
+    "tmax_c|Dec": [
+      -0.7044074697555416,
+      0.8079412405447635
+    ],
+    "tmin_c|Sep": [
+      -0.4166758842746787,
+      0.404363896346041
+    ],
+    "tmin_c|Oct": [
+      -0.5467260100409668,
+      0.48722448742932656
+    ],
+    "tmin_c|Nov": [
+      -0.6753862881546979,
+      0.7015346766139126
+    ],
+    "tmin_c|Dec": [
+      -1.1122111579208465,
+      0.9446413355644304
+    ]
+  }
+}

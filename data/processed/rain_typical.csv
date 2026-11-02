@@ -1,0 +1,997 @@
+state,district,month,mean,p10,p90
+Karnataka,Bagalkote,1,2.0,0.0,5.6
+Karnataka,Bagalkote,2,1.3,0.0,2.5
+Karnataka,Bagalkote,3,6.0,0.0,13.7
+Karnataka,Bagalkote,4,19.7,4.9,38.4
+Karnataka,Bagalkote,5,54.8,18.6,109.4
+Karnataka,Bagalkote,6,85.2,27.0,153.4
+Karnataka,Bagalkote,7,66.1,26.5,114.5
+Karnataka,Bagalkote,8,82.7,31.4,151.7
+Karnataka,Bagalkote,9,127.2,62.1,215.1
+Karnataka,Bagalkote,10,100.1,29.5,189.2
+Karnataka,Bagalkote,11,19.6,0.3,67.2
+Karnataka,Bagalkote,12,6.1,0.0,26.8
+Karnataka,Ballari,1,3.3,0.0,9.2
+Karnataka,Ballari,2,1.8,0.0,7.4
+Karnataka,Ballari,3,6.7,0.0,20.7
+Karnataka,Ballari,4,20.7,4.3,40.2
+Karnataka,Ballari,5,53.1,21.8,100.8
+Karnataka,Ballari,6,75.6,29.3,139.7
+Karnataka,Ballari,7,69.9,23.1,116.9
+Karnataka,Ballari,8,95.2,31.6,163.1
+Karnataka,Ballari,9,120.8,45.2,211.3
+Karnataka,Ballari,10,101.9,25.3,179.2
+Karnataka,Ballari,11,27.3,1.3,65.6
+Karnataka,Ballari,12,6.3,0.0,19.6
+Karnataka,Belagavi,1,1.6,0.0,5.1
+Karnataka,Belagavi,2,1.2,0.0,4.9
+Karnataka,Belagavi,3,7.9,0.0,21.7
+Karnataka,Belagavi,4,24.9,7.3,46.8
+Karnataka,Belagavi,5,62.0,21.3,117.5
+Karnataka,Belagavi,6,121.8,65.8,184.4
+Karnataka,Belagavi,7,137.8,66.1,213.3
+Karnataka,Belagavi,8,114.0,58.9,201.0
+Karnataka,Belagavi,9,118.2,41.0,199.3
+Karnataka,Belagavi,10,107.1,32.2,188.1
+Karnataka,Belagavi,11,22.3,1.1,58.9
+Karnataka,Belagavi,12,5.7,0.0,24.7
+Karnataka,Bengaluru Rural,1,1.3,0.0,2.8
+Karnataka,Bengaluru Rural,2,4.5,0.0,19.7
+Karnataka,Bengaluru Rural,3,13.5,0.0,31.8
+Karnataka,Bengaluru Rural,4,37.4,4.2,73.3
+Karnataka,Bengaluru Rural,5,93.8,38.0,164.9
+Karnataka,Bengaluru Rural,6,74.9,23.1,131.4
+Karnataka,Bengaluru Rural,7,94.3,39.3,187.1
+Karnataka,Bengaluru Rural,8,121.1,26.5,203.7
+Karnataka,Bengaluru Rural,9,153.4,65.1,247.6
+Karnataka,Bengaluru Rural,10,143.1,53.1,254.4
+Karnataka,Bengaluru Rural,11,55.8,10.6,105.9
+Karnataka,Bengaluru Rural,12,12.6,0.0,28.2
+Karnataka,Bengaluru South,1,2.6,0.0,7.0
+Karnataka,Bengaluru South,2,3.9,0.0,10.1
+Karnataka,Bengaluru South,3,12.8,0.0,35.3
+Karnataka,Bengaluru South,4,56.1,17.1,109.9
+Karnataka,Bengaluru South,5,118.7,64.2,189.7
+Karnataka,Bengaluru South,6,76.1,27.5,139.5
+Karnataka,Bengaluru South,7,83.3,33.6,152.4
+Karnataka,Bengaluru South,8,124.4,48.3,220.5
+Karnataka,Bengaluru South,9,159.3,57.4,238.6
+Karnataka,Bengaluru South,10,159.6,59.5,313.6
+Karnataka,Bengaluru South,11,57.1,10.2,102.9
+Karnataka,Bengaluru South,12,14.6,0.2,39.9
+Karnataka,Bengaluru Urban,1,2.8,0.0,4.9
+Karnataka,Bengaluru Urban,2,4.0,0.0,12.1
+Karnataka,Bengaluru Urban,3,14.3,0.0,41.9
+Karnataka,Bengaluru Urban,4,47.9,10.7,104.4
+Karnataka,Bengaluru Urban,5,114.3,38.6,229.5
+Karnataka,Bengaluru Urban,6,71.5,25.9,149.0
+Karnataka,Bengaluru Urban,7,81.0,26.0,162.7
+Karnataka,Bengaluru Urban,8,117.2,49.1,237.0
+Karnataka,Bengaluru Urban,9,159.7,65.5,226.6
+Karnataka,Bengaluru Urban,10,159.3,60.1,269.5
+Karnataka,Bengaluru Urban,11,59.4,10.0,109.8
+Karnataka,Bengaluru Urban,12,17.5,0.3,47.5
+Karnataka,Bidar,1,5.9,0.0,14.0
+Karnataka,Bidar,2,3.5,0.0,11.4
+Karnataka,Bidar,3,15.8,0.0,49.4
+Karnataka,Bidar,4,23.4,3.8,46.8
+Karnataka,Bidar,5,36.0,4.6,65.5
+Karnataka,Bidar,6,131.9,58.5,228.0
+Karnataka,Bidar,7,192.3,75.9,355.4
+Karnataka,Bidar,8,193.4,95.5,297.3
+Karnataka,Bidar,9,174.1,67.7,291.9
+Karnataka,Bidar,10,92.8,17.9,178.5
+Karnataka,Bidar,11,16.6,0.0,34.8
+Karnataka,Bidar,12,4.0,0.0,14.3
+Karnataka,Chamarajanagar,1,3.3,0.0,6.8
+Karnataka,Chamarajanagar,2,3.0,0.0,8.9
+Karnataka,Chamarajanagar,3,16.2,0.4,38.6
+Karnataka,Chamarajanagar,4,64.8,22.5,108.6
+Karnataka,Chamarajanagar,5,111.6,57.5,175.6
+Karnataka,Chamarajanagar,6,71.2,33.4,108.9
+Karnataka,Chamarajanagar,7,78.3,31.6,153.4
+Karnataka,Chamarajanagar,8,99.2,41.6,156.8
+Karnataka,Chamarajanagar,9,129.5,51.7,213.2
+Karnataka,Chamarajanagar,10,167.0,100.2,264.0
+Karnataka,Chamarajanagar,11,84.1,27.9,169.6
+Karnataka,Chamarajanagar,12,25.0,0.4,65.7
+Karnataka,Chikkaballapura,1,1.8,0.0,6.5
+Karnataka,Chikkaballapura,2,4.0,0.0,19.3
+Karnataka,Chikkaballapura,3,9.8,0.0,26.9
+Karnataka,Chikkaballapura,4,25.3,1.3,56.8
+Karnataka,Chikkaballapura,5,65.2,13.1,112.4
+Karnataka,Chikkaballapura,6,68.2,24.7,120.9
+Karnataka,Chikkaballapura,7,75.8,25.1,145.2
+Karnataka,Chikkaballapura,8,89.7,21.5,153.9
+Karnataka,Chikkaballapura,9,123.7,52.9,224.7
+Karnataka,Chikkaballapura,10,122.3,47.6,234.5
+Karnataka,Chikkaballapura,11,53.4,5.7,99.5
+Karnataka,Chikkaballapura,12,14.5,0.6,35.7
+Karnataka,Chikkamagaluru,1,3.0,0.0,6.8
+Karnataka,Chikkamagaluru,2,4.5,0.0,11.6
+Karnataka,Chikkamagaluru,3,14.1,0.1,29.3
+Karnataka,Chikkamagaluru,4,49.1,18.1,86.9
+Karnataka,Chikkamagaluru,5,102.8,38.5,197.0
+Karnataka,Chikkamagaluru,6,251.3,130.4,380.2
+Karnataka,Chikkamagaluru,7,425.6,258.9,640.4
+Karnataka,Chikkamagaluru,8,329.0,193.5,457.2
+Karnataka,Chikkamagaluru,9,161.1,80.8,264.1
+Karnataka,Chikkamagaluru,10,159.4,54.0,269.2
+Karnataka,Chikkamagaluru,11,55.7,6.6,119.2
+Karnataka,Chikkamagaluru,12,12.9,0.0,39.9
+Karnataka,Chitradurga,1,2.5,0.0,7.4
+Karnataka,Chitradurga,2,3.5,0.0,9.6
+Karnataka,Chitradurga,3,7.2,0.0,17.6
+Karnataka,Chitradurga,4,30.3,8.7,62.7
+Karnataka,Chitradurga,5,71.4,25.0,126.8
+Karnataka,Chitradurga,6,60.6,25.9,99.9
+Karnataka,Chitradurga,7,63.2,28.2,123.0
+Karnataka,Chitradurga,8,85.8,28.0,180.6
+Karnataka,Chitradurga,9,105.7,32.0,198.2
+Karnataka,Chitradurga,10,118.4,25.2,197.5
+Karnataka,Chitradurga,11,39.0,3.9,111.0
+Karnataka,Chitradurga,12,8.1,0.0,27.5
+Karnataka,Dakshina Kannada,1,6.8,0.0,23.7
+Karnataka,Dakshina Kannada,2,3.4,0.0,15.3
+Karnataka,Dakshina Kannada,3,19.5,0.1,54.8
+Karnataka,Dakshina Kannada,4,60.6,21.9,107.6
+Karnataka,Dakshina Kannada,5,185.6,49.0,369.9
+Karnataka,Dakshina Kannada,6,765.4,439.7,1032.9
+Karnataka,Dakshina Kannada,7,1103.5,678.0,1540.0
+Karnataka,Dakshina Kannada,8,809.6,560.4,1067.6
+Karnataka,Dakshina Kannada,9,349.0,176.1,587.5
+Karnataka,Dakshina Kannada,10,263.3,184.3,408.3
+Karnataka,Dakshina Kannada,11,96.4,25.3,170.1
+Karnataka,Dakshina Kannada,12,17.9,0.0,39.6
+Karnataka,Davanagere,1,1.9,0.0,2.9
+Karnataka,Davanagere,2,2.2,0.0,3.2
+Karnataka,Davanagere,3,7.0,0.0,19.0
+Karnataka,Davanagere,4,35.8,6.0,85.3
+Karnataka,Davanagere,5,77.4,24.7,145.5
+Karnataka,Davanagere,6,97.3,42.6,164.6
+Karnataka,Davanagere,7,134.9,60.9,214.0
+Karnataka,Davanagere,8,133.4,71.2,217.0
+Karnataka,Davanagere,9,100.4,43.2,170.0
+Karnataka,Davanagere,10,127.2,35.7,242.4
+Karnataka,Davanagere,11,39.3,1.5,95.0
+Karnataka,Davanagere,12,7.2,0.0,22.5
+Karnataka,Dharwad,1,2.9,0.0,2.2
+Karnataka,Dharwad,2,3.5,0.0,11.4
+Karnataka,Dharwad,3,10.9,0.0,18.6
+Karnataka,Dharwad,4,36.3,9.2,68.3
+Karnataka,Dharwad,5,74.1,20.9,167.0
+Karnataka,Dharwad,6,113.3,48.4,161.4
+Karnataka,Dharwad,7,94.3,39.7,167.5
+Karnataka,Dharwad,8,93.9,41.1,165.4
+Karnataka,Dharwad,9,103.9,37.2,183.5
+Karnataka,Dharwad,10,104.2,28.9,195.3
+Karnataka,Dharwad,11,29.1,1.4,85.4
+Karnataka,Dharwad,12,5.4,0.0,23.4
+Karnataka,Gadag,1,1.6,0.0,4.1
+Karnataka,Gadag,2,1.3,0.0,4.3
+Karnataka,Gadag,3,9.3,0.0,17.1
+Karnataka,Gadag,4,34.8,9.0,59.2
+Karnataka,Gadag,5,69.2,28.5,116.8
+Karnataka,Gadag,6,83.8,37.0,117.5
+Karnataka,Gadag,7,75.2,30.4,131.6
+Karnataka,Gadag,8,91.8,42.8,166.3
+Karnataka,Gadag,9,116.5,44.1,208.1
+Karnataka,Gadag,10,101.0,33.3,175.2
+Karnataka,Gadag,11,29.2,0.5,98.9
+Karnataka,Gadag,12,7.3,0.0,29.7
+Karnataka,Hassan,1,4.3,0.0,12.8
+Karnataka,Hassan,2,4.4,0.0,11.3
+Karnataka,Hassan,3,12.5,0.1,32.4
+Karnataka,Hassan,4,54.0,23.9,98.5
+Karnataka,Hassan,5,110.5,50.4,184.2
+Karnataka,Hassan,6,126.2,63.9,195.3
+Karnataka,Hassan,7,165.3,80.2,235.6
+Karnataka,Hassan,8,145.2,69.3,193.6
+Karnataka,Hassan,9,125.8,57.2,195.5
+Karnataka,Hassan,10,159.6,61.8,276.1
+Karnataka,Hassan,11,53.0,9.0,116.1
+Karnataka,Hassan,12,10.5,0.0,32.5
+Karnataka,Haveri,1,2.7,0.0,3.0
+Karnataka,Haveri,2,1.3,0.0,2.3
+Karnataka,Haveri,3,9.3,0.0,21.1
+Karnataka,Haveri,4,39.3,5.9,71.9
+Karnataka,Haveri,5,73.8,31.8,124.8
+Karnataka,Haveri,6,118.9,53.8,206.1
+Karnataka,Haveri,7,155.2,76.8,249.4
+Karnataka,Haveri,8,127.9,63.3,249.7
+Karnataka,Haveri,9,99.7,32.0,181.1
+Karnataka,Haveri,10,119.5,43.0,210.8
+Karnataka,Haveri,11,35.2,0.9,90.6
+Karnataka,Haveri,12,6.5,0.0,16.4
+Karnataka,Kalaburagi,1,4.0,0.0,9.9
+Karnataka,Kalaburagi,2,2.2,0.0,5.4
+Karnataka,Kalaburagi,3,9.6,0.0,24.0
+Karnataka,Kalaburagi,4,21.3,5.2,44.9
+Karnataka,Kalaburagi,5,37.8,10.7,74.7
+Karnataka,Kalaburagi,6,104.6,63.4,185.6
+Karnataka,Kalaburagi,7,144.8,61.3,265.3
+Karnataka,Kalaburagi,8,152.8,62.6,245.4
+Karnataka,Kalaburagi,9,167.0,72.8,284.8
+Karnataka,Kalaburagi,10,92.3,27.2,163.5
+Karnataka,Kalaburagi,11,15.7,0.3,40.7
+Karnataka,Kalaburagi,12,4.0,0.0,12.7
+Karnataka,Kodagu,1,4.1,0.0,12.9
+Karnataka,Kodagu,2,4.1,0.0,13.2
+Karnataka,Kodagu,3,18.8,0.2,51.5
+Karnataka,Kodagu,4,66.1,25.4,106.3
+Karnataka,Kodagu,5,126.0,60.2,250.3
+Karnataka,Kodagu,6,248.4,127.3,432.5
+Karnataka,Kodagu,7,339.5,170.5,524.6
+Karnataka,Kodagu,8,259.8,134.9,463.5
+Karnataka,Kodagu,9,149.1,69.7,266.9
+Karnataka,Kodagu,10,156.5,79.3,262.9
+Karnataka,Kodagu,11,60.7,9.8,132.1
+Karnataka,Kodagu,12,15.8,0.0,45.0
+Karnataka,Kolar,1,4.1,0.0,12.8
+Karnataka,Kolar,2,4.7,0.0,14.6
+Karnataka,Kolar,3,14.0,0.0,32.4
+Karnataka,Kolar,4,34.7,4.7,63.7
+Karnataka,Kolar,5,87.5,27.3,158.9
+Karnataka,Kolar,6,80.4,23.9,141.1
+Karnataka,Kolar,7,92.8,32.7,152.4
+Karnataka,Kolar,8,115.4,35.6,214.6
+Karnataka,Kolar,9,150.0,74.6,222.9
+Karnataka,Kolar,10,153.9,62.1,257.5
+Karnataka,Kolar,11,86.5,19.6,155.8
+Karnataka,Kolar,12,30.6,1.2,71.2
+Karnataka,Koppal,1,2.3,0.0,7.2
+Karnataka,Koppal,2,1.4,0.0,4.2
+Karnataka,Koppal,3,7.0,0.0,17.6
+Karnataka,Koppal,4,21.4,2.4,35.8
+Karnataka,Koppal,5,58.0,19.0,103.3
+Karnataka,Koppal,6,79.5,27.2,156.1
+Karnataka,Koppal,7,70.8,22.8,135.6
+Karnataka,Koppal,8,102.6,35.4,178.5
+Karnataka,Koppal,9,131.6,41.7,225.4
+Karnataka,Koppal,10,106.0,22.8,191.2
+Karnataka,Koppal,11,26.3,0.6,72.8
+Karnataka,Koppal,12,7.1,0.0,23.6
+Karnataka,Mandya,1,3.0,0.0,8.8
+Karnataka,Mandya,2,3.1,0.0,10.2
+Karnataka,Mandya,3,15.2,0.0,38.9
+Karnataka,Mandya,4,55.3,17.6,89.8
+Karnataka,Mandya,5,113.3,64.2,207.2
+Karnataka,Mandya,6,91.1,47.4,128.6
+Karnataka,Mandya,7,121.0,42.0,218.5
+Karnataka,Mandya,8,124.3,50.4,196.5
+Karnataka,Mandya,9,134.5,60.2,214.0
+Karnataka,Mandya,10,166.0,63.4,260.9
+Karnataka,Mandya,11,56.6,10.7,130.0
+Karnataka,Mandya,12,12.2,0.2,34.0
+Karnataka,Mysuru,1,3.1,0.0,14.0
+Karnataka,Mysuru,2,3.2,0.0,10.4
+Karnataka,Mysuru,3,15.3,0.8,33.3
+Karnataka,Mysuru,4,63.5,21.9,98.3
+Karnataka,Mysuru,5,116.5,65.7,190.2
+Karnataka,Mysuru,6,94.8,42.6,140.7
+Karnataka,Mysuru,7,100.9,33.4,156.4
+Karnataka,Mysuru,8,102.8,41.9,158.9
+Karnataka,Mysuru,9,102.7,46.1,161.5
+Karnataka,Mysuru,10,151.0,64.3,241.9
+Karnataka,Mysuru,11,61.1,8.7,144.5
+Karnataka,Mysuru,12,11.6,0.0,32.4
+Karnataka,Raichur,1,2.2,0.0,5.6
+Karnataka,Raichur,2,1.9,0.0,4.1
+Karnataka,Raichur,3,8.1,0.0,19.0
+Karnataka,Raichur,4,16.6,2.6,35.9
+Karnataka,Raichur,5,45.0,12.3,90.9
+Karnataka,Raichur,6,85.9,38.1,153.9
+Karnataka,Raichur,7,92.6,37.9,163.0
+Karnataka,Raichur,8,116.4,51.9,217.3
+Karnataka,Raichur,9,140.7,62.2,248.5
+Karnataka,Raichur,10,98.2,24.5,182.4
+Karnataka,Raichur,11,17.9,0.6,45.1
+Karnataka,Raichur,12,3.5,0.0,8.6
+Karnataka,Shivamogga,1,2.5,0.0,3.8
+Karnataka,Shivamogga,2,2.9,0.0,11.8
+Karnataka,Shivamogga,3,10.2,0.0,21.0
+Karnataka,Shivamogga,4,40.0,10.2,71.6
+Karnataka,Shivamogga,5,85.3,25.9,163.7
+Karnataka,Shivamogga,6,362.8,184.0,514.1
+Karnataka,Shivamogga,7,603.2,354.3,955.6
+Karnataka,Shivamogga,8,451.3,260.2,608.6
+Karnataka,Shivamogga,9,189.9,85.9,317.1
+Karnataka,Shivamogga,10,145.4,53.1,264.0
+Karnataka,Shivamogga,11,44.3,4.6,100.4
+Karnataka,Shivamogga,12,8.6,0.0,29.5
+Karnataka,Tumakuru,1,3.4,0.0,8.9
+Karnataka,Tumakuru,2,5.3,0.0,18.5
+Karnataka,Tumakuru,3,10.9,0.0,30.7
+Karnataka,Tumakuru,4,34.7,7.1,72.8
+Karnataka,Tumakuru,5,82.1,34.8,118.4
+Karnataka,Tumakuru,6,71.4,31.0,125.5
+Karnataka,Tumakuru,7,76.2,32.7,158.3
+Karnataka,Tumakuru,8,104.5,28.0,200.7
+Karnataka,Tumakuru,9,131.1,46.0,238.2
+Karnataka,Tumakuru,10,135.9,53.2,237.7
+Karnataka,Tumakuru,11,47.3,8.0,80.3
+Karnataka,Tumakuru,12,9.5,0.2,27.3
+Karnataka,Udupi,1,5.9,0.0,5.6
+Karnataka,Udupi,2,2.7,0.0,5.0
+Karnataka,Udupi,3,13.7,0.0,34.7
+Karnataka,Udupi,4,42.8,9.9,82.8
+Karnataka,Udupi,5,170.7,36.2,361.2
+Karnataka,Udupi,6,963.3,593.1,1268.1
+Karnataka,Udupi,7,1392.9,861.4,1971.4
+Karnataka,Udupi,8,1036.6,760.7,1564.9
+Karnataka,Udupi,9,438.0,193.6,825.6
+Karnataka,Udupi,10,257.2,117.1,392.4
+Karnataka,Udupi,11,84.5,15.9,167.0
+Karnataka,Udupi,12,14.9,0.0,45.2
+Karnataka,Uttara Kannada,1,2.2,0.0,3.0
+Karnataka,Uttara Kannada,2,1.3,0.0,4.3
+Karnataka,Uttara Kannada,3,7.4,0.0,16.7
+Karnataka,Uttara Kannada,4,28.6,6.1,59.8
+Karnataka,Uttara Kannada,5,82.4,15.5,175.5
+Karnataka,Uttara Kannada,6,529.4,313.9,683.2
+Karnataka,Uttara Kannada,7,800.4,489.6,1197.6
+Karnataka,Uttara Kannada,8,559.3,309.3,759.6
+Karnataka,Uttara Kannada,9,221.6,89.9,353.8
+Karnataka,Uttara Kannada,10,146.5,55.4,228.7
+Karnataka,Uttara Kannada,11,35.4,2.3,80.4
+Karnataka,Uttara Kannada,12,7.5,0.0,27.5
+Karnataka,Vijayanagara,1,1.6,0.0,4.4
+Karnataka,Vijayanagara,2,1.5,0.0,3.5
+Karnataka,Vijayanagara,3,6.9,0.0,19.0
+Karnataka,Vijayanagara,4,29.3,3.3,51.5
+Karnataka,Vijayanagara,5,65.2,16.5,112.8
+Karnataka,Vijayanagara,6,74.5,34.4,124.0
+Karnataka,Vijayanagara,7,73.2,29.5,137.4
+Karnataka,Vijayanagara,8,94.5,45.6,171.7
+Karnataka,Vijayanagara,9,109.3,40.0,197.0
+Karnataka,Vijayanagara,10,111.6,26.7,204.8
+Karnataka,Vijayanagara,11,31.3,1.4,93.2
+Karnataka,Vijayanagara,12,7.7,0.0,25.8
+Karnataka,Vijayapura,1,2.4,0.0,5.8
+Karnataka,Vijayapura,2,1.0,0.0,3.2
+Karnataka,Vijayapura,3,6.0,0.0,11.4
+Karnataka,Vijayapura,4,16.8,3.3,35.5
+Karnataka,Vijayapura,5,45.8,13.8,87.3
+Karnataka,Vijayapura,6,85.9,35.0,128.2
+Karnataka,Vijayapura,7,78.5,32.2,139.4
+Karnataka,Vijayapura,8,95.6,39.0,169.0
+Karnataka,Vijayapura,9,136.3,62.4,211.3
+Karnataka,Vijayapura,10,97.2,27.6,187.1
+Karnataka,Vijayapura,11,16.2,0.0,50.6
+Karnataka,Vijayapura,12,5.1,0.0,19.8
+Karnataka,Yadgir,1,3.7,0.0,11.3
+Karnataka,Yadgir,2,2.2,0.0,5.0
+Karnataka,Yadgir,3,9.4,0.0,24.8
+Karnataka,Yadgir,4,18.8,2.9,42.2
+Karnataka,Yadgir,5,42.5,8.7,82.5
+Karnataka,Yadgir,6,87.8,34.6,152.9
+Karnataka,Yadgir,7,124.1,47.5,230.6
+Karnataka,Yadgir,8,132.0,63.6,231.3
+Karnataka,Yadgir,9,153.9,59.6,246.4
+Karnataka,Yadgir,10,96.7,16.4,180.8
+Karnataka,Yadgir,11,18.6,0.2,54.5
+Karnataka,Yadgir,12,4.4,0.0,9.8
+Kerala,Alappuzha,1,19.2,0.0,39.7
+Kerala,Alappuzha,2,20.8,0.1,66.1
+Kerala,Alappuzha,3,58.1,3.2,97.9
+Kerala,Alappuzha,4,157.8,69.8,257.2
+Kerala,Alappuzha,5,287.8,116.0,531.8
+Kerala,Alappuzha,6,529.4,343.0,750.5
+Kerala,Alappuzha,7,467.7,244.5,705.4
+Kerala,Alappuzha,8,351.4,179.2,559.4
+Kerala,Alappuzha,9,280.4,67.4,485.9
+Kerala,Alappuzha,10,351.5,170.2,526.9
+Kerala,Alappuzha,11,218.2,100.4,358.6
+Kerala,Alappuzha,12,58.6,2.0,141.6
+Kerala,Ernakulam,1,15.6,0.2,25.7
+Kerala,Ernakulam,2,14.7,0.1,42.9
+Kerala,Ernakulam,3,47.1,8.1,80.2
+Kerala,Ernakulam,4,123.7,56.0,232.3
+Kerala,Ernakulam,5,257.1,88.9,555.3
+Kerala,Ernakulam,6,623.5,357.2,975.7
+Kerala,Ernakulam,7,703.0,347.3,1009.6
+Kerala,Ernakulam,8,516.2,277.1,778.0
+Kerala,Ernakulam,9,329.9,105.6,586.8
+Kerala,Ernakulam,10,313.5,172.6,466.1
+Kerala,Ernakulam,11,167.7,67.1,282.6
+Kerala,Ernakulam,12,48.3,1.5,127.9
+Kerala,Idukki,1,25.4,0.7,60.8
+Kerala,Idukki,2,20.8,0.1,46.6
+Kerala,Idukki,3,44.4,8.6,70.2
+Kerala,Idukki,4,101.2,30.1,185.6
+Kerala,Idukki,5,134.7,60.2,242.0
+Kerala,Idukki,6,229.4,122.1,326.5
+Kerala,Idukki,7,269.0,102.8,377.9
+Kerala,Idukki,8,228.6,74.9,409.1
+Kerala,Idukki,9,181.2,79.6,317.6
+Kerala,Idukki,10,242.8,141.2,335.4
+Kerala,Idukki,11,174.9,73.5,324.9
+Kerala,Idukki,12,69.2,4.1,166.3
+Kerala,Kannur,1,6.5,0.0,13.4
+Kerala,Kannur,2,3.7,0.0,13.7
+Kerala,Kannur,3,20.8,0.7,53.2
+Kerala,Kannur,4,76.3,27.5,130.5
+Kerala,Kannur,5,197.5,69.1,377.0
+Kerala,Kannur,6,727.5,433.1,1059.8
+Kerala,Kannur,7,920.2,524.7,1456.0
+Kerala,Kannur,8,599.5,401.2,833.2
+Kerala,Kannur,9,287.9,112.1,462.4
+Kerala,Kannur,10,236.4,148.6,353.0
+Kerala,Kannur,11,87.0,23.1,222.2
+Kerala,Kannur,12,22.4,0.1,49.4
+Kerala,Kasaragod,1,9.2,0.0,31.3
+Kerala,Kasaragod,2,4.1,0.0,9.0
+Kerala,Kasaragod,3,21.0,0.0,44.5
+Kerala,Kasaragod,4,75.2,24.7,144.2
+Kerala,Kasaragod,5,233.4,53.4,478.5
+Kerala,Kasaragod,6,927.6,597.3,1270.2
+Kerala,Kasaragod,7,1214.9,822.6,1671.3
+Kerala,Kasaragod,8,867.4,637.7,1162.3
+Kerala,Kasaragod,9,391.7,184.4,616.5
+Kerala,Kasaragod,10,294.1,162.7,446.2
+Kerala,Kasaragod,11,107.7,37.2,207.1
+Kerala,Kasaragod,12,26.7,0.0,58.3
+Kerala,Kollam,1,26.3,0.0,108.8
+Kerala,Kollam,2,34.5,0.0,80.8
+Kerala,Kollam,3,77.1,22.3,140.8
+Kerala,Kollam,4,155.7,68.7,257.4
+Kerala,Kollam,5,223.9,67.6,432.8
+Kerala,Kollam,6,361.2,158.4,516.5
+Kerala,Kollam,7,318.9,134.4,455.9
+Kerala,Kollam,8,264.0,94.3,469.0
+Kerala,Kollam,9,219.9,62.2,364.1
+Kerala,Kollam,10,383.5,181.1,558.2
+Kerala,Kollam,11,237.3,112.4,373.4
+Kerala,Kollam,12,70.0,8.0,176.3
+Kerala,Kottayam,1,18.5,1.1,48.6
+Kerala,Kottayam,2,20.8,0.5,59.3
+Kerala,Kottayam,3,56.0,13.2,96.7
+Kerala,Kottayam,4,149.4,54.1,241.0
+Kerala,Kottayam,5,296.4,101.2,681.5
+Kerala,Kottayam,6,648.7,373.5,900.7
+Kerala,Kottayam,7,665.4,315.1,979.0
+Kerala,Kottayam,8,498.8,228.6,793.3
+Kerala,Kottayam,9,347.9,128.2,607.6
+Kerala,Kottayam,10,390.1,218.1,627.1
+Kerala,Kottayam,11,197.7,87.2,307.7
+Kerala,Kottayam,12,53.5,1.4,133.5
+Kerala,Kozhikode,1,7.2,0.0,22.6
+Kerala,Kozhikode,2,4.0,0.0,13.8
+Kerala,Kozhikode,3,20.0,0.0,46.6
+Kerala,Kozhikode,4,75.6,27.8,118.5
+Kerala,Kozhikode,5,183.9,76.9,330.1
+Kerala,Kozhikode,6,585.4,318.3,942.9
+Kerala,Kozhikode,7,710.2,391.1,1144.3
+Kerala,Kozhikode,8,474.5,277.9,760.3
+Kerala,Kozhikode,9,234.8,80.6,413.4
+Kerala,Kozhikode,10,219.3,111.8,324.3
+Kerala,Kozhikode,11,91.1,26.0,198.0
+Kerala,Kozhikode,12,24.8,0.0,67.2
+Kerala,Malappuram,1,6.5,0.0,15.7
+Kerala,Malappuram,2,5.7,0.0,23.0
+Kerala,Malappuram,3,22.0,1.2,38.5
+Kerala,Malappuram,4,73.9,23.2,130.7
+Kerala,Malappuram,5,172.8,55.3,379.3
+Kerala,Malappuram,6,531.9,326.0,726.6
+Kerala,Malappuram,7,583.3,312.5,927.6
+Kerala,Malappuram,8,412.1,221.3,590.7
+Kerala,Malappuram,9,262.2,69.0,465.8
+Kerala,Malappuram,10,279.7,165.4,430.5
+Kerala,Malappuram,11,126.0,34.7,267.6
+Kerala,Malappuram,12,26.4,1.1,57.6
+Kerala,Palakkad,1,7.2,0.0,20.0
+Kerala,Palakkad,2,8.7,0.0,28.8
+Kerala,Palakkad,3,25.5,1.5,48.0
+Kerala,Palakkad,4,77.2,28.2,149.4
+Kerala,Palakkad,5,135.3,45.6,257.7
+Kerala,Palakkad,6,354.0,202.0,514.9
+Kerala,Palakkad,7,440.1,216.0,671.5
+Kerala,Palakkad,8,307.2,153.1,450.2
+Kerala,Palakkad,9,186.6,43.7,347.1
+Kerala,Palakkad,10,214.6,112.9,317.1
+Kerala,Palakkad,11,118.9,31.0,249.7
+Kerala,Palakkad,12,32.1,1.0,81.3
+Kerala,Pathanamthitta,1,30.3,1.8,77.3
+Kerala,Pathanamthitta,2,35.2,1.3,93.3
+Kerala,Pathanamthitta,3,69.5,18.8,123.7
+Kerala,Pathanamthitta,4,131.0,71.2,204.0
+Kerala,Pathanamthitta,5,157.1,59.6,279.8
+Kerala,Pathanamthitta,6,220.9,115.3,339.7
+Kerala,Pathanamthitta,7,221.7,85.0,306.9
+Kerala,Pathanamthitta,8,171.3,78.5,293.1
+Kerala,Pathanamthitta,9,157.6,37.5,309.9
+Kerala,Pathanamthitta,10,276.8,165.8,392.5
+Kerala,Pathanamthitta,11,230.2,120.4,413.1
+Kerala,Pathanamthitta,12,75.9,8.7,172.0
+Kerala,Thiruvananthapuram,1,25.6,0.7,79.4
+Kerala,Thiruvananthapuram,2,24.9,0.1,66.7
+Kerala,Thiruvananthapuram,3,50.2,12.7,80.9
+Kerala,Thiruvananthapuram,4,131.4,60.7,221.6
+Kerala,Thiruvananthapuram,5,194.5,79.1,336.1
+Kerala,Thiruvananthapuram,6,247.2,129.1,342.1
+Kerala,Thiruvananthapuram,7,184.3,67.3,279.4
+Kerala,Thiruvananthapuram,8,144.9,52.0,226.3
+Kerala,Thiruvananthapuram,9,175.0,50.3,303.2
+Kerala,Thiruvananthapuram,10,290.7,119.8,438.9
+Kerala,Thiruvananthapuram,11,241.1,129.4,362.4
+Kerala,Thiruvananthapuram,12,70.3,14.3,170.1
+Kerala,Thrissur,1,10.7,0.0,22.2
+Kerala,Thrissur,2,10.7,0.0,29.6
+Kerala,Thrissur,3,25.3,0.3,50.4
+Kerala,Thrissur,4,90.7,25.4,154.9
+Kerala,Thrissur,5,254.6,61.0,605.6
+Kerala,Thrissur,6,615.7,400.5,877.8
+Kerala,Thrissur,7,600.7,325.4,827.5
+Kerala,Thrissur,8,425.6,245.7,608.1
+Kerala,Thrissur,9,286.2,80.5,531.1
+Kerala,Thrissur,10,318.6,154.5,507.5
+Kerala,Thrissur,11,133.4,39.6,234.7
+Kerala,Thrissur,12,35.8,0.0,113.3
+Kerala,Wayanad,1,6.3,0.0,19.3
+Kerala,Wayanad,2,4.4,0.0,17.7
+Kerala,Wayanad,3,25.1,0.0,68.2
+Kerala,Wayanad,4,79.1,33.3,130.7
+Kerala,Wayanad,5,141.4,62.2,253.4
+Kerala,Wayanad,6,234.4,121.9,389.7
+Kerala,Wayanad,7,312.0,138.4,535.6
+Kerala,Wayanad,8,246.5,124.2,506.2
+Kerala,Wayanad,9,136.3,61.9,203.9
+Kerala,Wayanad,10,151.9,68.6,231.3
+Kerala,Wayanad,11,74.1,18.0,148.0
+Kerala,Wayanad,12,17.6,0.0,56.0
+Tamil Nadu,Ariyalur,1,38.2,0.0,128.4
+Tamil Nadu,Ariyalur,2,14.9,0.0,48.0
+Tamil Nadu,Ariyalur,3,16.7,0.0,46.7
+Tamil Nadu,Ariyalur,4,29.3,0.1,70.5
+Tamil Nadu,Ariyalur,5,54.7,12.1,95.6
+Tamil Nadu,Ariyalur,6,52.9,4.9,88.8
+Tamil Nadu,Ariyalur,7,59.5,14.7,118.1
+Tamil Nadu,Ariyalur,8,110.3,35.7,176.5
+Tamil Nadu,Ariyalur,9,108.0,26.2,184.0
+Tamil Nadu,Ariyalur,10,170.7,73.3,263.8
+Tamil Nadu,Ariyalur,11,293.0,87.0,506.1
+Tamil Nadu,Ariyalur,12,168.9,20.6,404.8
+Tamil Nadu,Chengalpattu,1,28.9,0.0,97.4
+Tamil Nadu,Chengalpattu,2,10.2,0.0,15.9
+Tamil Nadu,Chengalpattu,3,9.7,0.0,21.0
+Tamil Nadu,Chengalpattu,4,16.0,0.0,46.0
+Tamil Nadu,Chengalpattu,5,39.9,1.9,87.1
+Tamil Nadu,Chengalpattu,6,61.7,11.4,116.7
+Tamil Nadu,Chengalpattu,7,87.8,36.4,144.2
+Tamil Nadu,Chengalpattu,8,123.6,69.1,182.6
+Tamil Nadu,Chengalpattu,9,126.5,67.5,199.5
+Tamil Nadu,Chengalpattu,10,229.8,101.9,352.6
+Tamil Nadu,Chengalpattu,11,362.2,121.5,625.8
+Tamil Nadu,Chengalpattu,12,176.2,39.9,372.1
+Tamil Nadu,Chennai,1,25.0,0.0,63.8
+Tamil Nadu,Chennai,2,11.2,0.0,27.6
+Tamil Nadu,Chennai,3,8.2,0.0,17.7
+Tamil Nadu,Chennai,4,14.8,0.0,47.1
+Tamil Nadu,Chennai,5,42.8,0.0,123.5
+Tamil Nadu,Chennai,6,77.1,18.8,133.8
+Tamil Nadu,Chennai,7,92.3,33.0,182.1
+Tamil Nadu,Chennai,8,127.3,51.4,202.8
+Tamil Nadu,Chennai,9,127.5,47.7,207.5
+Tamil Nadu,Chennai,10,252.5,60.6,404.3
+Tamil Nadu,Chennai,11,380.0,96.5,619.7
+Tamil Nadu,Chennai,12,168.4,13.8,346.1
+Tamil Nadu,Coimbatore,1,11.9,0.0,28.0
+Tamil Nadu,Coimbatore,2,9.8,0.0,30.2
+Tamil Nadu,Coimbatore,3,23.7,2.3,54.1
+Tamil Nadu,Coimbatore,4,58.6,14.7,114.5
+Tamil Nadu,Coimbatore,5,93.9,37.7,183.1
+Tamil Nadu,Coimbatore,6,163.7,71.5,262.7
+Tamil Nadu,Coimbatore,7,207.9,61.7,356.0
+Tamil Nadu,Coimbatore,8,171.1,63.9,321.2
+Tamil Nadu,Coimbatore,9,121.4,34.1,198.2
+Tamil Nadu,Coimbatore,10,174.1,80.4,284.5
+Tamil Nadu,Coimbatore,11,136.1,43.9,273.4
+Tamil Nadu,Coimbatore,12,47.8,2.5,101.2
+Tamil Nadu,Cuddalore,1,41.3,0.1,131.5
+Tamil Nadu,Cuddalore,2,19.2,0.0,51.1
+Tamil Nadu,Cuddalore,3,20.3,0.0,75.0
+Tamil Nadu,Cuddalore,4,19.6,0.0,51.3
+Tamil Nadu,Cuddalore,5,49.6,6.0,107.1
+Tamil Nadu,Cuddalore,6,57.0,21.3,95.7
+Tamil Nadu,Cuddalore,7,63.2,21.6,109.6
+Tamil Nadu,Cuddalore,8,118.0,42.8,183.2
+Tamil Nadu,Cuddalore,9,107.2,42.1,173.8
+Tamil Nadu,Cuddalore,10,211.5,100.7,372.7
+Tamil Nadu,Cuddalore,11,388.3,149.6,731.1
+Tamil Nadu,Cuddalore,12,203.7,46.0,423.8
+Tamil Nadu,Dharmapuri,1,7.2,0.0,16.2
+Tamil Nadu,Dharmapuri,2,2.6,0.0,8.2
+Tamil Nadu,Dharmapuri,3,15.4,0.1,38.4
+Tamil Nadu,Dharmapuri,4,42.0,3.7,92.7
+Tamil Nadu,Dharmapuri,5,101.9,43.2,158.9
+Tamil Nadu,Dharmapuri,6,59.0,20.6,93.3
+Tamil Nadu,Dharmapuri,7,72.1,21.9,137.6
+Tamil Nadu,Dharmapuri,8,115.3,39.5,218.2
+Tamil Nadu,Dharmapuri,9,150.4,57.9,236.2
+Tamil Nadu,Dharmapuri,10,160.0,65.0,239.1
+Tamil Nadu,Dharmapuri,11,105.3,44.5,202.2
+Tamil Nadu,Dharmapuri,12,43.7,2.4,97.5
+Tamil Nadu,Dindigul,1,18.9,0.3,37.6
+Tamil Nadu,Dindigul,2,9.6,0.0,26.5
+Tamil Nadu,Dindigul,3,23.1,0.3,36.8
+Tamil Nadu,Dindigul,4,49.4,9.7,104.8
+Tamil Nadu,Dindigul,5,74.5,37.4,127.1
+Tamil Nadu,Dindigul,6,58.3,14.7,80.3
+Tamil Nadu,Dindigul,7,53.0,7.2,110.3
+Tamil Nadu,Dindigul,8,92.4,24.9,184.0
+Tamil Nadu,Dindigul,9,113.6,32.5,177.4
+Tamil Nadu,Dindigul,10,166.0,80.4,254.7
+Tamil Nadu,Dindigul,11,156.5,45.4,327.4
+Tamil Nadu,Dindigul,12,65.1,7.1,164.8
+Tamil Nadu,Erode,1,6.1,0.0,13.1
+Tamil Nadu,Erode,2,6.9,0.0,25.0
+Tamil Nadu,Erode,3,18.0,0.2,38.8
+Tamil Nadu,Erode,4,55.1,14.7,104.9
+Tamil Nadu,Erode,5,91.3,45.0,158.0
+Tamil Nadu,Erode,6,53.0,17.7,90.4
+Tamil Nadu,Erode,7,56.0,14.5,110.8
+Tamil Nadu,Erode,8,82.3,28.5,147.3
+Tamil Nadu,Erode,9,112.9,48.6,200.8
+Tamil Nadu,Erode,10,168.5,78.0,289.1
+Tamil Nadu,Erode,11,113.4,35.1,205.4
+Tamil Nadu,Erode,12,31.5,2.8,65.8
+Tamil Nadu,Kallakurichi,1,19.4,0.0,73.7
+Tamil Nadu,Kallakurichi,2,4.4,0.0,12.0
+Tamil Nadu,Kallakurichi,3,15.4,0.0,34.2
+Tamil Nadu,Kallakurichi,4,21.9,0.1,63.3
+Tamil Nadu,Kallakurichi,5,57.4,10.1,109.3
+Tamil Nadu,Kallakurichi,6,47.7,10.8,89.5
+Tamil Nadu,Kallakurichi,7,65.0,17.5,121.5
+Tamil Nadu,Kallakurichi,8,116.9,31.3,197.0
+Tamil Nadu,Kallakurichi,9,121.8,45.4,202.8
+Tamil Nadu,Kallakurichi,10,156.4,66.6,263.6
+Tamil Nadu,Kallakurichi,11,205.3,79.5,479.1
+Tamil Nadu,Kallakurichi,12,115.1,11.0,265.5
+Tamil Nadu,Kancheepuram,1,24.4,0.1,71.2
+Tamil Nadu,Kancheepuram,2,9.3,0.0,19.4
+Tamil Nadu,Kancheepuram,3,8.9,0.0,14.2
+Tamil Nadu,Kancheepuram,4,19.8,0.0,49.9
+Tamil Nadu,Kancheepuram,5,42.3,2.8,94.1
+Tamil Nadu,Kancheepuram,6,76.6,14.8,123.6
+Tamil Nadu,Kancheepuram,7,99.6,41.0,167.8
+Tamil Nadu,Kancheepuram,8,135.9,69.6,219.1
+Tamil Nadu,Kancheepuram,9,137.7,66.3,228.0
+Tamil Nadu,Kancheepuram,10,222.4,80.0,327.1
+Tamil Nadu,Kancheepuram,11,337.4,116.3,651.9
+Tamil Nadu,Kancheepuram,12,168.4,17.1,359.9
+Tamil Nadu,Kanniyakumari,1,27.3,1.6,72.0
+Tamil Nadu,Kanniyakumari,2,23.2,0.1,63.8
+Tamil Nadu,Kanniyakumari,3,36.4,3.8,71.1
+Tamil Nadu,Kanniyakumari,4,80.4,21.1,162.2
+Tamil Nadu,Kanniyakumari,5,97.0,29.8,216.7
+Tamil Nadu,Kanniyakumari,6,111.7,39.5,191.2
+Tamil Nadu,Kanniyakumari,7,75.5,20.3,134.1
+Tamil Nadu,Kanniyakumari,8,65.7,21.1,154.7
+Tamil Nadu,Kanniyakumari,9,87.4,17.2,156.5
+Tamil Nadu,Kanniyakumari,10,212.1,100.5,349.2
+Tamil Nadu,Kanniyakumari,11,240.6,116.5,389.7
+Tamil Nadu,Kanniyakumari,12,87.8,11.5,199.6
+Tamil Nadu,Karur,1,11.8,0.0,26.5
+Tamil Nadu,Karur,2,6.4,0.0,20.2
+Tamil Nadu,Karur,3,14.8,0.0,26.4
+Tamil Nadu,Karur,4,36.4,2.3,90.5
+Tamil Nadu,Karur,5,67.1,21.7,129.1
+Tamil Nadu,Karur,6,47.2,7.6,74.8
+Tamil Nadu,Karur,7,51.1,2.0,105.2
+Tamil Nadu,Karur,8,81.7,18.0,136.4
+Tamil Nadu,Karur,9,115.5,41.1,193.0
+Tamil Nadu,Karur,10,135.1,65.2,225.9
+Tamil Nadu,Karur,11,145.9,53.6,314.8
+Tamil Nadu,Karur,12,62.1,2.9,171.8
+Tamil Nadu,Krishnagiri,1,5.0,0.0,12.4
+Tamil Nadu,Krishnagiri,2,3.0,0.0,8.7
+Tamil Nadu,Krishnagiri,3,14.2,0.0,38.2
+Tamil Nadu,Krishnagiri,4,42.9,10.5,93.6
+Tamil Nadu,Krishnagiri,5,106.0,46.1,188.6
+Tamil Nadu,Krishnagiri,6,60.8,21.0,99.2
+Tamil Nadu,Krishnagiri,7,71.2,21.6,147.2
+Tamil Nadu,Krishnagiri,8,111.3,29.7,217.2
+Tamil Nadu,Krishnagiri,9,149.4,55.8,236.5
+Tamil Nadu,Krishnagiri,10,156.8,71.1,247.7
+Tamil Nadu,Krishnagiri,11,92.4,24.9,170.4
+Tamil Nadu,Krishnagiri,12,35.6,2.9,81.3
+Tamil Nadu,Madurai,1,20.3,0.4,39.0
+Tamil Nadu,Madurai,2,13.2,0.0,38.8
+Tamil Nadu,Madurai,3,25.1,0.2,67.8
+Tamil Nadu,Madurai,4,65.5,13.3,131.8
+Tamil Nadu,Madurai,5,79.5,37.4,130.0
+Tamil Nadu,Madurai,6,56.7,15.3,85.4
+Tamil Nadu,Madurai,7,70.5,11.4,111.7
+Tamil Nadu,Madurai,8,103.4,42.6,177.1
+Tamil Nadu,Madurai,9,115.1,46.8,192.5
+Tamil Nadu,Madurai,10,189.2,90.3,274.3
+Tamil Nadu,Madurai,11,152.2,60.7,290.0
+Tamil Nadu,Madurai,12,57.6,7.6,126.5
+Tamil Nadu,Mayiladuthurai,1,50.3,0.2,124.0
+Tamil Nadu,Mayiladuthurai,2,19.9,0.0,58.5
+Tamil Nadu,Mayiladuthurai,3,21.7,0.0,70.4
+Tamil Nadu,Mayiladuthurai,4,24.2,0.0,45.0
+Tamil Nadu,Mayiladuthurai,5,41.0,2.1,97.9
+Tamil Nadu,Mayiladuthurai,6,48.6,9.7,71.7
+Tamil Nadu,Mayiladuthurai,7,51.4,14.6,89.2
+Tamil Nadu,Mayiladuthurai,8,95.6,32.9,181.2
+Tamil Nadu,Mayiladuthurai,9,84.4,22.0,154.9
+Tamil Nadu,Mayiladuthurai,10,213.2,62.8,421.5
+Tamil Nadu,Mayiladuthurai,11,425.9,139.3,736.1
+Tamil Nadu,Mayiladuthurai,12,216.4,38.0,465.9
+Tamil Nadu,Nagapattinam,1,78.9,2.6,202.4
+Tamil Nadu,Nagapattinam,2,29.2,0.0,129.3
+Tamil Nadu,Nagapattinam,3,27.7,0.0,97.6
+Tamil Nadu,Nagapattinam,4,36.8,0.0,105.8
+Tamil Nadu,Nagapattinam,5,56.2,4.2,128.8
+Tamil Nadu,Nagapattinam,6,47.1,4.0,107.6
+Tamil Nadu,Nagapattinam,7,50.6,15.2,89.2
+Tamil Nadu,Nagapattinam,8,91.3,21.7,179.2
+Tamil Nadu,Nagapattinam,9,88.6,20.6,145.2
+Tamil Nadu,Nagapattinam,10,223.9,101.4,373.5
+Tamil Nadu,Nagapattinam,11,486.1,192.8,782.0
+Tamil Nadu,Nagapattinam,12,242.2,62.6,561.9
+Tamil Nadu,Namakkal,1,7.7,0.0,20.1
+Tamil Nadu,Namakkal,2,4.9,0.0,7.9
+Tamil Nadu,Namakkal,3,14.5,0.0,25.9
+Tamil Nadu,Namakkal,4,43.3,3.1,106.9
+Tamil Nadu,Namakkal,5,82.7,30.8,129.9
+Tamil Nadu,Namakkal,6,51.2,15.7,93.1
+Tamil Nadu,Namakkal,7,60.1,21.7,122.6
+Tamil Nadu,Namakkal,8,106.9,34.4,189.9
+Tamil Nadu,Namakkal,9,124.6,38.9,209.2
+Tamil Nadu,Namakkal,10,137.9,57.4,236.2
+Tamil Nadu,Namakkal,11,120.6,28.2,222.5
+Tamil Nadu,Namakkal,12,45.4,4.9,108.8
+Tamil Nadu,Perambalur,1,21.7,0.0,70.3
+Tamil Nadu,Perambalur,2,6.3,0.0,14.3
+Tamil Nadu,Perambalur,3,14.2,0.0,37.2
+Tamil Nadu,Perambalur,4,26.2,0.0,67.8
+Tamil Nadu,Perambalur,5,61.3,11.7,118.4
+Tamil Nadu,Perambalur,6,50.7,14.0,103.9
+Tamil Nadu,Perambalur,7,59.4,10.4,128.4
+Tamil Nadu,Perambalur,8,113.3,34.9,244.7
+Tamil Nadu,Perambalur,9,115.2,30.7,188.8
+Tamil Nadu,Perambalur,10,143.9,62.3,238.0
+Tamil Nadu,Perambalur,11,202.9,37.4,464.3
+Tamil Nadu,Perambalur,12,97.3,8.8,242.0
+Tamil Nadu,Pudukkottai,1,29.0,0.0,97.3
+Tamil Nadu,Pudukkottai,2,15.5,0.0,27.9
+Tamil Nadu,Pudukkottai,3,19.5,0.0,43.6
+Tamil Nadu,Pudukkottai,4,38.8,1.9,87.5
+Tamil Nadu,Pudukkottai,5,57.8,16.0,114.8
+Tamil Nadu,Pudukkottai,6,57.0,12.4,82.5
+Tamil Nadu,Pudukkottai,7,61.3,12.1,92.0
+Tamil Nadu,Pudukkottai,8,102.7,41.5,188.6
+Tamil Nadu,Pudukkottai,9,107.0,46.4,184.4
+Tamil Nadu,Pudukkottai,10,162.3,84.3,250.6
+Tamil Nadu,Pudukkottai,11,204.1,77.5,428.4
+Tamil Nadu,Pudukkottai,12,106.0,18.1,256.8
+Tamil Nadu,Ramanathapuram,1,36.9,0.5,101.8
+Tamil Nadu,Ramanathapuram,2,22.1,0.0,66.0
+Tamil Nadu,Ramanathapuram,3,25.1,0.0,48.1
+Tamil Nadu,Ramanathapuram,4,47.4,6.2,136.0
+Tamil Nadu,Ramanathapuram,5,40.8,4.2,85.7
+Tamil Nadu,Ramanathapuram,6,30.2,2.9,53.9
+Tamil Nadu,Ramanathapuram,7,33.0,1.5,68.1
+Tamil Nadu,Ramanathapuram,8,48.1,9.8,91.1
+Tamil Nadu,Ramanathapuram,9,62.7,13.0,122.7
+Tamil Nadu,Ramanathapuram,10,184.7,72.6,336.6
+Tamil Nadu,Ramanathapuram,11,223.7,109.4,391.6
+Tamil Nadu,Ramanathapuram,12,119.1,24.2,259.6
+Tamil Nadu,Ranipet,1,16.0,0.0,46.1
+Tamil Nadu,Ranipet,2,6.8,0.0,20.3
+Tamil Nadu,Ranipet,3,7.0,0.0,18.3
+Tamil Nadu,Ranipet,4,24.6,0.0,69.2
+Tamil Nadu,Ranipet,5,53.9,7.6,139.7
+Tamil Nadu,Ranipet,6,84.3,24.9,169.5
+Tamil Nadu,Ranipet,7,109.9,43.0,189.9
+Tamil Nadu,Ranipet,8,138.1,49.1,217.6
+Tamil Nadu,Ranipet,9,152.5,82.8,240.3
+Tamil Nadu,Ranipet,10,165.3,72.7,246.6
+Tamil Nadu,Ranipet,11,212.8,45.6,439.5
+Tamil Nadu,Ranipet,12,121.5,5.1,250.9
+Tamil Nadu,Salem,1,9.8,0.0,22.9
+Tamil Nadu,Salem,2,3.5,0.0,8.8
+Tamil Nadu,Salem,3,17.6,0.0,39.1
+Tamil Nadu,Salem,4,49.0,5.9,108.6
+Tamil Nadu,Salem,5,90.1,39.1,144.8
+Tamil Nadu,Salem,6,63.0,23.0,115.6
+Tamil Nadu,Salem,7,75.3,29.7,131.3
+Tamil Nadu,Salem,8,121.6,50.7,184.6
+Tamil Nadu,Salem,9,139.6,52.0,213.4
+Tamil Nadu,Salem,10,163.1,79.7,243.4
+Tamil Nadu,Salem,11,134.8,50.1,247.6
+Tamil Nadu,Salem,12,56.9,11.9,120.8
+Tamil Nadu,Sivaganga,1,28.9,0.0,74.4
+Tamil Nadu,Sivaganga,2,14.4,0.0,43.7
+Tamil Nadu,Sivaganga,3,22.5,0.0,53.0
+Tamil Nadu,Sivaganga,4,49.5,4.4,98.5
+Tamil Nadu,Sivaganga,5,59.6,15.0,122.2
+Tamil Nadu,Sivaganga,6,59.2,11.1,100.6
+Tamil Nadu,Sivaganga,7,65.5,13.9,117.0
+Tamil Nadu,Sivaganga,8,94.0,28.8,166.1
+Tamil Nadu,Sivaganga,9,103.0,29.2,186.5
+Tamil Nadu,Sivaganga,10,180.7,69.4,319.1
+Tamil Nadu,Sivaganga,11,165.4,45.8,323.2
+Tamil Nadu,Sivaganga,12,86.9,19.5,196.6
+Tamil Nadu,Tenkasi,1,25.1,1.0,71.3
+Tamil Nadu,Tenkasi,2,22.5,0.0,66.8
+Tamil Nadu,Tenkasi,3,52.7,3.7,77.2
+Tamil Nadu,Tenkasi,4,75.3,19.0,163.1
+Tamil Nadu,Tenkasi,5,56.3,16.5,113.8
+Tamil Nadu,Tenkasi,6,42.3,5.2,92.9
+Tamil Nadu,Tenkasi,7,47.7,3.7,161.7
+Tamil Nadu,Tenkasi,8,47.7,8.5,85.7
+Tamil Nadu,Tenkasi,9,60.8,15.8,129.1
+Tamil Nadu,Tenkasi,10,164.1,46.1,282.2
+Tamil Nadu,Tenkasi,11,186.3,61.0,317.9
+Tamil Nadu,Tenkasi,12,81.7,15.3,171.8
+Tamil Nadu,Thanjavur,1,41.1,0.6,114.8
+Tamil Nadu,Thanjavur,2,20.5,0.0,83.5
+Tamil Nadu,Thanjavur,3,22.8,0.0,62.6
+Tamil Nadu,Thanjavur,4,41.2,1.9,97.3
+Tamil Nadu,Thanjavur,5,65.1,21.8,130.2
+Tamil Nadu,Thanjavur,6,48.1,7.6,78.6
+Tamil Nadu,Thanjavur,7,59.0,15.7,122.5
+Tamil Nadu,Thanjavur,8,104.0,37.2,188.2
+Tamil Nadu,Thanjavur,9,111.6,35.0,187.8
+Tamil Nadu,Thanjavur,10,184.1,78.7,288.4
+Tamil Nadu,Thanjavur,11,310.9,121.2,573.8
+Tamil Nadu,Thanjavur,12,165.7,38.9,346.9
+Tamil Nadu,The Nilgiris,1,21.1,0.0,54.9
+Tamil Nadu,The Nilgiris,2,18.5,0.0,55.2
+Tamil Nadu,The Nilgiris,3,41.0,1.1,106.2
+Tamil Nadu,The Nilgiris,4,71.7,22.4,127.4
+Tamil Nadu,The Nilgiris,5,118.5,47.7,200.6
+Tamil Nadu,The Nilgiris,6,124.4,53.7,233.5
+Tamil Nadu,The Nilgiris,7,173.0,49.9,295.3
+Tamil Nadu,The Nilgiris,8,136.9,43.2,223.5
+Tamil Nadu,The Nilgiris,9,127.4,51.6,194.5
+Tamil Nadu,The Nilgiris,10,218.0,78.9,398.9
+Tamil Nadu,The Nilgiris,11,199.5,63.5,333.8
+Tamil Nadu,The Nilgiris,12,79.9,6.4,152.0
+Tamil Nadu,Theni,1,23.5,0.0,61.7
+Tamil Nadu,Theni,2,18.8,0.2,47.4
+Tamil Nadu,Theni,3,36.7,1.9,72.5
+Tamil Nadu,Theni,4,75.1,11.6,159.3
+Tamil Nadu,Theni,5,84.7,34.5,157.1
+Tamil Nadu,Theni,6,81.6,13.1,153.2
+Tamil Nadu,Theni,7,98.4,12.4,191.0
+Tamil Nadu,Theni,8,108.5,26.5,225.9
+Tamil Nadu,Theni,9,111.6,38.6,185.0
+Tamil Nadu,Theni,10,189.6,71.6,284.3
+Tamil Nadu,Theni,11,168.0,61.3,334.6
+Tamil Nadu,Theni,12,60.6,2.1,141.3
+Tamil Nadu,Thiruvallur,1,22.5,0.0,58.6
+Tamil Nadu,Thiruvallur,2,12.5,0.0,43.0
+Tamil Nadu,Thiruvallur,3,8.2,0.0,18.1
+Tamil Nadu,Thiruvallur,4,17.1,0.0,46.7
+Tamil Nadu,Thiruvallur,5,47.8,7.3,109.9
+Tamil Nadu,Thiruvallur,6,82.7,23.7,157.7
+Tamil Nadu,Thiruvallur,7,100.7,42.2,181.7
+Tamil Nadu,Thiruvallur,8,134.4,69.2,224.6
+Tamil Nadu,Thiruvallur,9,137.6,65.6,236.8
+Tamil Nadu,Thiruvallur,10,230.1,66.7,378.2
+Tamil Nadu,Thiruvallur,11,324.5,72.8,573.1
+Tamil Nadu,Thiruvallur,12,155.6,16.4,350.2
+Tamil Nadu,Thiruvarur,1,55.7,2.2,137.2
+Tamil Nadu,Thiruvarur,2,22.7,0.0,97.4
+Tamil Nadu,Thiruvarur,3,27.4,0.0,74.4
+Tamil Nadu,Thiruvarur,4,44.4,0.1,133.3
+Tamil Nadu,Thiruvarur,5,63.0,8.1,144.5
+Tamil Nadu,Thiruvarur,6,48.0,4.9,128.9
+Tamil Nadu,Thiruvarur,7,59.8,8.2,140.7
+Tamil Nadu,Thiruvarur,8,95.6,26.9,185.5
+Tamil Nadu,Thiruvarur,9,99.0,27.5,184.6
+Tamil Nadu,Thiruvarur,10,215.1,85.4,347.6
+Tamil Nadu,Thiruvarur,11,412.4,144.5,738.5
+Tamil Nadu,Thiruvarur,12,220.7,50.7,471.2
+Tamil Nadu,Thoothukkudi,1,25.9,0.8,59.1
+Tamil Nadu,Thoothukkudi,2,25.9,0.0,65.0
+Tamil Nadu,Thoothukkudi,3,30.2,0.8,66.4
+Tamil Nadu,Thoothukkudi,4,53.2,5.2,126.7
+Tamil Nadu,Thoothukkudi,5,46.6,11.9,85.1
+Tamil Nadu,Thoothukkudi,6,33.7,2.6,64.8
+Tamil Nadu,Thoothukkudi,7,31.9,1.9,48.3
+Tamil Nadu,Thoothukkudi,8,42.9,11.2,68.4
+Tamil Nadu,Thoothukkudi,9,57.3,15.2,107.2
+Tamil Nadu,Thoothukkudi,10,161.4,63.8,297.1
+Tamil Nadu,Thoothukkudi,11,197.6,81.2,297.9
+Tamil Nadu,Thoothukkudi,12,96.7,15.9,225.1
+Tamil Nadu,Tiruchirappalli,1,15.2,0.0,44.7
+Tamil Nadu,Tiruchirappalli,2,6.5,0.0,18.7
+Tamil Nadu,Tiruchirappalli,3,14.5,0.0,36.4
+Tamil Nadu,Tiruchirappalli,4,30.5,1.4,71.9
+Tamil Nadu,Tiruchirappalli,5,66.0,19.2,127.9
+Tamil Nadu,Tiruchirappalli,6,47.6,8.4,92.2
+Tamil Nadu,Tiruchirappalli,7,51.6,4.5,110.9
+Tamil Nadu,Tiruchirappalli,8,91.1,13.1,141.5
+Tamil Nadu,Tiruchirappalli,9,112.5,46.2,176.3
+Tamil Nadu,Tiruchirappalli,10,140.0,75.2,214.0
+Tamil Nadu,Tiruchirappalli,11,164.2,49.6,351.3
+Tamil Nadu,Tiruchirappalli,12,74.8,6.7,189.7
+Tamil Nadu,Tirunelveli,1,32.6,1.1,71.0
+Tamil Nadu,Tirunelveli,2,23.3,0.0,56.9
+Tamil Nadu,Tirunelveli,3,36.3,1.5,74.2
+Tamil Nadu,Tirunelveli,4,57.7,10.5,127.4
+Tamil Nadu,Tirunelveli,5,40.3,11.5,78.1
+Tamil Nadu,Tirunelveli,6,27.8,3.2,42.2
+Tamil Nadu,Tirunelveli,7,25.1,1.7,55.9
+Tamil Nadu,Tirunelveli,8,29.1,2.9,61.4
+Tamil Nadu,Tirunelveli,9,44.2,10.2,82.8
+Tamil Nadu,Tirunelveli,10,153.0,52.9,309.9
+Tamil Nadu,Tirunelveli,11,234.9,116.5,408.4
+Tamil Nadu,Tirunelveli,12,109.9,21.2,211.5
+Tamil Nadu,Tirupathur,1,7.2,0.0,19.7
+Tamil Nadu,Tirupathur,2,3.9,0.0,11.2
+Tamil Nadu,Tirupathur,3,11.6,0.0,26.3
+Tamil Nadu,Tirupathur,4,30.2,2.4,78.3
+Tamil Nadu,Tirupathur,5,75.2,22.8,135.5
+Tamil Nadu,Tirupathur,6,69.0,17.8,117.1
+Tamil Nadu,Tirupathur,7,87.7,19.6,169.5
+Tamil Nadu,Tirupathur,8,129.9,30.4,235.6
+Tamil Nadu,Tirupathur,9,147.9,45.8,256.1
+Tamil Nadu,Tirupathur,10,137.4,46.0,227.5
+Tamil Nadu,Tirupathur,11,121.7,34.8,231.7
+Tamil Nadu,Tirupathur,12,54.4,2.5,131.8
+Tamil Nadu,Tiruppur,1,11.3,0.0,25.1
+Tamil Nadu,Tiruppur,2,6.6,0.0,23.0
+Tamil Nadu,Tiruppur,3,18.8,0.3,34.6
+Tamil Nadu,Tiruppur,4,43.6,8.4,102.2
+Tamil Nadu,Tiruppur,5,69.1,31.1,118.7
+Tamil Nadu,Tiruppur,6,58.9,5.7,119.2
+Tamil Nadu,Tiruppur,7,53.9,3.8,191.3
+Tamil Nadu,Tiruppur,8,73.6,7.8,144.8
+Tamil Nadu,Tiruppur,9,90.7,17.9,159.5
+Tamil Nadu,Tiruppur,10,139.5,47.0,235.4
+Tamil Nadu,Tiruppur,11,137.6,39.3,249.2
+Tamil Nadu,Tiruppur,12,46.0,3.7,105.8
+Tamil Nadu,Tiruvannamalai,1,15.2,0.0,54.7
+Tamil Nadu,Tiruvannamalai,2,5.5,0.0,19.1
+Tamil Nadu,Tiruvannamalai,3,10.1,0.0,33.7
+Tamil Nadu,Tiruvannamalai,4,21.7,0.4,56.4
+Tamil Nadu,Tiruvannamalai,5,64.3,14.5,120.9
+Tamil Nadu,Tiruvannamalai,6,71.6,24.1,116.4
+Tamil Nadu,Tiruvannamalai,7,98.7,37.5,182.1
+Tamil Nadu,Tiruvannamalai,8,142.0,52.9,211.9
+Tamil Nadu,Tiruvannamalai,9,156.0,83.3,213.1
+Tamil Nadu,Tiruvannamalai,10,165.6,84.1,271.6
+Tamil Nadu,Tiruvannamalai,11,202.5,52.8,383.2
+Tamil Nadu,Tiruvannamalai,12,109.4,18.7,198.7
+Tamil Nadu,Vellore,1,11.7,0.0,36.3
+Tamil Nadu,Vellore,2,4.7,0.0,14.8
+Tamil Nadu,Vellore,3,12.8,0.0,29.8
+Tamil Nadu,Vellore,4,26.1,1.0,55.0
+Tamil Nadu,Vellore,5,72.1,27.6,121.7
+Tamil Nadu,Vellore,6,85.2,31.5,141.3
+Tamil Nadu,Vellore,7,107.9,28.9,213.5
+Tamil Nadu,Vellore,8,138.7,49.7,228.5
+Tamil Nadu,Vellore,9,163.1,85.8,232.5
+Tamil Nadu,Vellore,10,161.0,76.0,247.3
+Tamil Nadu,Vellore,11,163.1,39.0,277.2
+Tamil Nadu,Vellore,12,85.8,6.0,156.3
+Tamil Nadu,Viluppuram,1,23.6,0.0,109.3
+Tamil Nadu,Viluppuram,2,7.2,0.0,18.7
+Tamil Nadu,Viluppuram,3,12.2,0.0,23.4
+Tamil Nadu,Viluppuram,4,15.0,0.0,43.2
+Tamil Nadu,Viluppuram,5,44.2,4.7,92.2
+Tamil Nadu,Viluppuram,6,59.2,12.5,120.2
+Tamil Nadu,Viluppuram,7,72.1,21.0,157.7
+Tamil Nadu,Viluppuram,8,128.0,43.7,204.6
+Tamil Nadu,Viluppuram,9,122.0,57.6,182.8
+Tamil Nadu,Viluppuram,10,181.2,59.0,326.4
+Tamil Nadu,Viluppuram,11,286.1,63.1,663.9
+Tamil Nadu,Viluppuram,12,144.9,13.0,325.9
+Tamil Nadu,Virudhunagar,1,24.1,0.5,52.7
+Tamil Nadu,Virudhunagar,2,18.6,0.0,44.7
+Tamil Nadu,Virudhunagar,3,26.9,0.4,63.6
+Tamil Nadu,Virudhunagar,4,62.7,11.9,113.7
+Tamil Nadu,Virudhunagar,5,70.9,29.6,127.1
+Tamil Nadu,Virudhunagar,6,46.9,10.5,80.0
+Tamil Nadu,Virudhunagar,7,53.4,9.3,114.3
+Tamil Nadu,Virudhunagar,8,79.8,31.3,138.4
+Tamil Nadu,Virudhunagar,9,90.0,46.8,157.9
+Tamil Nadu,Virudhunagar,10,179.9,83.2,283.2
+Tamil Nadu,Virudhunagar,11,165.0,69.7,313.4
+Tamil Nadu,Virudhunagar,12,75.9,7.1,181.5

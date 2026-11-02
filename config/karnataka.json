@@ -1,0 +1,8 @@
+{
+  "state": "Karnataka",
+  "districts": 31,
+  "season_months": [6, 7, 8, 9],
+  "geojson": "data/geojson/karnataka.geojson",
+  "language": "kn",
+  "key_crops": ["ragi", "jowar", "cotton", "sugarcane", "coffee"]
+}

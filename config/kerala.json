@@ -1,0 +1,8 @@
+{
+  "state": "Kerala",
+  "districts": 14,
+  "season_months": [6, 7, 8, 9],
+  "geojson": "data/geojson/kerala.geojson",
+  "language": "ml",
+  "key_crops": ["rice", "rubber", "coconut", "spices"]
+}
