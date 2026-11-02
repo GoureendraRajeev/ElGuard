@@ -39,7 +39,7 @@ El Niño improved the forecast for **February to April (highs)** and **February 
 - It forecasts **monthly averages**, not daily weather, and not rainfall, floods or heatwave days.
 - Only about 40 independent years stand behind the tests, and neighbouring districts move together.
 - Values are district averages of a coarse data grid (the temperature grid is about 1 degree), not weather-station readings.
-- January to September 2026 on the website come from Open-Meteo (ERA5), not from IMD.
+
 
 ## Data sources
 
